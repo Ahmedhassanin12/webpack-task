@@ -1,0 +1,33 @@
+// const slider = document.querySelector('.slider');
+// const btnLeft = document.querySelector('.slider__btn--left');
+// const btnRight = document.querySelector('.slider__btn--right');
+
+  // const nextSlide = function () {
+  //   if (curentslide === slides.length - 1) {
+  //     curentslide = 0;
+  //   } else {
+  //     curentslide++;
+  //   }
+  //   goToSlide(curentslide);
+  //   // -100% , 0%, 100%, 200%.
+  //   activeDots(curentslide);
+  // };
+
+  // const prevSlide = function () {
+  //   if (curentslide === 0) {
+  //     curentslide = slides.length - 1;
+  //   } else {
+  //     curentslide--;
+  //   }
+  //   goToSlide(curentslide);
+  //   activeDots(curentslide);
+  // };
+
+    // document.addEventListener("keydown", function (e) {
+  //   if (e.key === "ArrowRight") nextSlide();
+  //   if (e.key === "ArrowLeft") prevSlide();
+  // });
+
+    // event handlers
+  // btnRight.addEventListener('click', nextSlide);
+  // btnLeft.addEventListener('click', prevSlide);

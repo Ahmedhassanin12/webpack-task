@@ -1,0 +1,61 @@
+
+[
+        {
+            "name":"Wooden Chair",
+            "price":299,
+            "path":"/images/collection/arrivals1.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Single Armchair",
+            "price":599,
+            "path":"/images/collection/arrivals2.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Stylish Chair",
+            "price":242,
+            "path":"/images/collection/arrivals3.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Modern Chair",
+            "price":132,
+            "path":"/images/collection/arrivals4.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Mapple Wood Dinning Table",
+            "price":764,
+            "path":"/images/collection/arrivals5.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Arm Chair",
+            "price":259,
+            "path":"/images/collection/arrivals6.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Chair And Table",
+            "price":599,
+            "path":"/images/collection/arrivals7.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        },
+        {
+            "name":"Modern Arm Chair",
+            "price":199,
+            "path":"/images/collection/arrivals8.png",
+            "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+    
+        }
+    
+    ]
+    

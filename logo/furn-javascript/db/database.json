@@ -1,0 +1,90 @@
+
+{
+"sales":[
+    {
+        "name":"Single Armchair",
+        "price":299,
+        "path":"images/products/1.jpg",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Single Armchair",
+        "price":599,
+        "path":"images/products/2.jpg",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Stylish Chair",
+        "price":242,
+        "path":"images/products/3.jpg",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Modern Chair",
+        "price":132,
+        "path":"images/products/4.jpg",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Mapple Wood Dinning Table",
+        "price":764,
+        "path":"images/products/5.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Arm Chair",
+        "price":259,
+        "path":"images/products/6.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Chair And Table",
+        "price":599,
+        "path":"images/products/7.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Modern Arm Chair",
+        "price":199,
+        "path":"images/products/8.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Designed Sofa",
+        "price":199,
+        "path":"images/products/9.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Dinning Table",
+        "price":199,
+        "path":"images/products/10.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Arm Chair",
+        "price":199,
+        "path":"images/products/11.png",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    },
+    {
+        "name":"Wood Accent Chair",
+        "price":399,
+        "path":"images/products/1.jpg",
+        "data":"Nemo enim ipsam voluptatem quia volu ptas sit asperna aut odit aut"
+
+    }
+
+]
+}
